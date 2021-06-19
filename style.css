@@ -7,22 +7,22 @@ body {
 
 a:link {
   text-decoration: none;
-  color: crimson;
+  color: limegreen;
 }
 
 a:visited {
   text-decoration: none;
-  color: orange;
+  color: lightgreen;
 }
 
 a:hover {
   text-decoration: none;
-  color: darksalmon;
+  color: lime;
 }
 
 a:active {
   text-decoration: none;
-  color: orangered;
+  color: seagreen;
 }
 
 dfn {
